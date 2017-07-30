@@ -1,0 +1,9 @@
+{
+  "urls": [
+    "http://example.com/index.html?count=10",
+    "http://a:b@c.com?q=1#d",
+    "http://a@b:d.com#:b@c.com#d",
+    "http://a@c.com#:d@e.com/f/g#h",
+    "http://site.{one,two,three}.com"
+  ]
+}
