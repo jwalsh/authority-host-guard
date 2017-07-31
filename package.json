@@ -1,8 +1,16 @@
 {
-  "name": "request-block",
+  "name": "authority-host-guard",
   "version": "1.0.0",
-  "description": "",
+  "description": "Show cases where blacklisted domains could pass through the checking provided by OS, programming language, and utilities.",
   "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {
+    "parseurl": "^1.3.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
